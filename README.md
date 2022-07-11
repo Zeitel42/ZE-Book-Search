@@ -24,7 +24,7 @@ A book searching web app where a user can type a search term in a search box and
 
 The app is deployed and live on Heroku.
 
-    https://ze-book-search.herokuapp.com/
+https://ze-book-search.herokuapp.com/
 
 <img src="./client/public/booksearch-screenshot.png" alt="book search landing page">
 
